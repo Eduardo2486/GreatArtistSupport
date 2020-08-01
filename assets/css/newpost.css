@@ -1,0 +1,30 @@
+body{
+    background-color: #3e3e3e;
+}
+.main-container{
+    background-color: #3e3e3e;
+}
+.main-user-content{
+    width:50%;
+    margin: 0 auto;
+}
+.input-content-post{
+    width:100%;
+    max-width: 100%;
+    margin: 10px 0px;
+    padding:10px ;
+    font-family: "OpenSans";
+}
+.load-multiple-files{
+    color: #fff;
+}
+.submit-post{
+    padding: 5px 20px;
+    background-color: #008aff;
+    color: #fff;
+    border: 1px solid #0052e0;
+    border-radius: 5px;
+    box-shadow: 0px 0px 8px 1px #008aff;
+    margin-top: 20px;
+    display: block;
+}
